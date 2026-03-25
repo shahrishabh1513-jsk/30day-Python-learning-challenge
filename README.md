@@ -1,4 +1,3 @@
-﻿# 30day-Python-learning-challenge
 <div align="center">
 
 # 🐍 30 Days of Python
