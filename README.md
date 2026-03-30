@@ -49,13 +49,6 @@
 | ✅ Day 21 | Classes & Objects |
 | ✅ Day 22 | Web Scraping |
 
----
-
-## 📂 Topics Structure
-
-<p align="center">
-  <img src="assets/python_topics.png" width="300"/>
-</p>
 
 ---
 
