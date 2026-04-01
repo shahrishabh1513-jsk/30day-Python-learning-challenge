@@ -48,6 +48,8 @@
 | ✅ Day 20 | Python Package Manager (PIP) |
 | ✅ Day 21 | Classes & Objects |
 | ✅ Day 22 | Web Scraping |
+| ✅ Day 21 | Virtual environment |
+| ✅ Day 22 | Statistics |
 
 
 ---
