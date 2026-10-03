@@ -11,7 +11,7 @@
     </td>
   </tr>
 </table>
-<\br><\br>
+
 <p align="center">
   <a href="https://github.com/shahrishabh1513-jsk/30day-Python-learning-challenge">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=1B98E0&center=true&vCenter=true&width=600&lines=Learn+Python+one+day+at+a+time+%F0%9F%90%8D;30+Challenges+%C2%B7+30+Days+%C2%B7+1+Goal+%F0%9F%8E%AF;Beginner+Friendly+%F0%9F%94%A5+Hands-on+%F0%9F%9A%80" alt="Typing SVG" />
