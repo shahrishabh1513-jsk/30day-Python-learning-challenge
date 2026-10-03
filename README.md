@@ -69,7 +69,7 @@ Each day lives in its own folder with focused, hands-on code, so you can follow 
 </p>
 
 ## 📚 Completed Days
-
+<\br><\br>
 <details open>
 <summary><b>Click to expand / collapse the full 30-day roadmap 📋</b></summary>
 
